@@ -1,0 +1,24 @@
+# Home Security System - Requirements
+
+# Core dependencies
+opencv-python>=4.8.0
+mediapipe>=0.10.0
+numpy>=1.24.0
+
+# Optional: For better face recognition (recommended upgrade)
+# facenet-pytorch>=2.5.0
+# insightface>=0.7.0
+
+# For hardware integration (if using Raspberry Pi or door locks)
+# RPi.GPIO>=0.7.0
+# gpiozero>=2.0.0
+
+# For notifications (optional)
+# twilio>=8.0.0  # SMS alerts
+# python-telegram-bot>=20.0  # Telegram alerts
+
+# For email alerts (optional)
+# smtplib  # Built-in to Python
+
+# Visualization
+matplotlib>=3.7.0
