@@ -1,0 +1,87 @@
+FACE PREPROCESSING REPORT
+============================================================
+
+Total processed: 182
+Total skipped: 73
+
+Per Identity:
+  MARK: 43 faces
+  CHIRAG: 43 faces
+  ANKIT: 47 faces
+  ADNAN: 49 faces
+
+
+Skipped Files:
+  ADNAN/ADNAN05.jpeg - No face detected
+  ADNAN/ADNAN13.jpg - No face detected
+  ADNAN/ADNAN14.jpg - No face detected
+  ADNAN/ADNAN23.jpg - No face detected
+  ADNAN/ADNAN24.jpg - No face detected
+  ADNAN/ADNAN25.jpg - No face detected
+  ADNAN/ADNAN28.jpg - No face detected
+  ADNAN/ADNAN31.jpg - No face detected
+  ADNAN/ADNAN33.jpg - No face detected
+  ADNAN/ADNAN38.jpg - No face detected
+  ADNAN/ADNAN43.jpg - No face detected
+  ADNAN/ADNAN48.jpg - No face detected
+  ADNAN/ADNAN49.jpg - No face detected
+  ADNAN/ADNAN50.jpg - No face detected
+  ADNAN/ADNAN51.jpg - No face detected
+  ADNAN/ADNAN57.jpg - No face detected
+  ADNAN/ADNAN58.jpg - No face detected
+  ADNAN/ADNAN59.jpg - No face detected
+  ADNAN/ADNAN63.jpg - No face detected
+  ADNAN/ADNAN65.jpg - No face detected
+  ADNAN/ADNAN66.jpg - No face detected
+  ADNAN/ADNAN72.jpeg - No face detected
+  ANKIT/ANKIT11.jpg - No face detected
+  ANKIT/ANKIT17.jpg - No face detected
+  ANKIT/ANKIT23.jpg - No face detected
+  ANKIT/ANKIT24.jpg - No face detected
+  ANKIT/ANKIT25.jpg - No face detected
+  ANKIT/ANKIT28.jpg - No face detected
+  ANKIT/ANKIT29.jpg - No face detected
+  ANKIT/ANKIT37.jpg - No face detected
+  ANKIT/ANKIT39.jpg - No face detected
+  ANKIT/ANKIT42.jpg - No face detected
+  ANKIT/ANKIT55.jpeg - No face detected
+  ANKIT/ANKIT59.jpeg - No face detected
+  CHIRAG/CHIRAG10.jpg - No face detected
+  CHIRAG/CHIRAG12.jpg - No face detected
+  CHIRAG/CHIRAG13.jpg - No face detected
+  CHIRAG/CHIRAG26.jpg - No face detected
+  CHIRAG/CHIRAG27.jpg - No face detected
+  CHIRAG/CHIRAG29.jpg - No face detected
+  CHIRAG/CHIRAG30.jpg - No face detected
+  CHIRAG/CHIRAG31.jpg - No face detected
+  CHIRAG/CHIRAG33.jpg - No face detected
+  CHIRAG/CHIRAG35.jpg - No face detected
+  CHIRAG/CHIRAG36.jpg - No face detected
+  CHIRAG/CHIRAG43.jpeg - No face detected
+  CHIRAG/CHIRAG52.jpeg - No face detected
+  CHIRAG/CHIRAG53.jpeg - No face detected
+  CHIRAG/CHIRAG56.jpeg - No face detected
+  CHIRAG/CHIRAG58.jpeg - No face detected
+  CHIRAG/CHIRAG60.jpeg - No face detected
+  CHIRAG/CHIRAG61.jpeg - No face detected
+  MARK/MARK01.jpeg - No face detected
+  MARK/MARK03.jpeg - No face detected
+  MARK/MARK04.jpeg - No face detected
+  MARK/MARK09.jpg - No face detected
+  MARK/MARK10.jpg - No face detected
+  MARK/MARK14.jpg - No face detected
+  MARK/MARK15.jpg - No face detected
+  MARK/MARK18.jpg - No face detected
+  MARK/MARK25.jpg - No face detected
+  MARK/MARK30.jpg - No face detected
+  MARK/MARK31.jpg - No face detected
+  MARK/MARK36.jpg - No face detected
+  MARK/MARK41.jpg - No face detected
+  MARK/MARK42.jpg - No face detected
+  MARK/MARK46.jpg - No face detected
+  MARK/MARK47.jpg - No face detected
+  MARK/MARK50.jpeg - No face detected
+  MARK/MARK51.jpeg - No face detected
+  MARK/MARK54.jpeg - No face detected
+  MARK/MARK61.jpeg - No face detected
+  MARK/MARK63.jpeg - No face detected
